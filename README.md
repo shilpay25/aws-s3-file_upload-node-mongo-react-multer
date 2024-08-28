@@ -32,9 +32,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 If you're using an Amazon S3 bucket to share files with anyone else, you'll first need to make those files public. Maybe you're sending download links to someone, or perhaps you're using S3 for static files for your website or as a content delivery network (CDN). But if you don't make the files public, your users will get an XML error message saying the file is unavailable.
 
-1. Sign in to Amazon Web Services and go to your S3 Management Console.
+1. Sign in to Amazon Web Services and go to your S3 Management Console
 
-2. Select the bucket from the left. At right, click the Properties button if it's not already expanded.
+2. Select the bucket from the left and At right, click the Properties button if it's not already expanded.
 
 3. Go to the Permissions tab > Public Access Settings Tab
 
